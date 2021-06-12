@@ -9,5 +9,5 @@ If any of the following changes, the app will be killed and re-built/run
 
 Usage:
 
-$ cd /path/to/vapor/app
+$ cd /path/to/vapor/app\
 $ /path/to/clone/run.sh
